@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Scroll Text</string>
+    <string name="article_title">Article Title</string>
+    <string name="article_subtitle">Article Subtitle</string>
+    <string name="article_text">Kỹ năng học tập là gì?</string>
+
+    <b>Kỹ năng học tập</b> là tập hợp các chiến lược, kỹ thuật và thói quen giúp học sinh nâng cao kết quả
+    học tập và hiệu quả học tập. Những kỹ năng này giúp học sinh xử lý, ghi nhớ và
+    ghi nhớ thông tin một cách hiệu quả, dẫn đến thành tích học tập xuất sắc.\n
+    <b>Tại sao phát triển kỹ năng học tập lại quan trọng?</b>
+    \n
+    Kỹ năng học tập đóng vai trò nền tảng cho sự thành công trong học tập và học tập suốt đời.
+    Giáo viên đóng vai trò quan trọng trong việc giúp học sinh phát triển những kỹ năng này,
+    trao quyền cho học sinh trở thành người học độc lập và tự tin.\n
+    <i>Kỹ năng học tập hiệu quả là yếu tố quan trọng giúp học sinh, sinh viên đạt được thành công trong học tập.
+        Áp dụng các phương pháp học tập phù hợp, rèn luyện kỹ năng quản lý thời gian và
+        giữ tinh thần học tập tích cực là những yếu tố then chốt để nâng cao hiệu quả học tập.
+    </i>
+</resources>

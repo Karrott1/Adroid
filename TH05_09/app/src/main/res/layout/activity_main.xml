@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:padding="20dp">
+
+    <!-- Hiển thị góc lệch so với hướng bắc -->
+    <TextView
+        android:id="@+id/tvHeading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hướng Bắc: 0°"
+        android:textSize="18sp"
+        android:textStyle="bold"/>
+
+    <!-- Hình ảnh kim la bàn -->
+    <ImageView
+        android:id="@+id/imgCompass"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/compass1"
+        android:layout_marginTop="20dp"/>
+</LinearLayout>
